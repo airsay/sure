@@ -64,7 +64,7 @@ gem "countries"
 
 # OAuth & API Security
 gem "doorkeeper"
-gem "rack-attack", "~> 6.6"
+gem "rack-attack", "~> 6.8"
 gem "rack-cors"
 gem "pundit"
 gem "faraday"
